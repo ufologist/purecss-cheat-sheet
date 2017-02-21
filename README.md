@@ -2,7 +2,7 @@
 
 [Pure.css](https://github.com/yahoo/pure/) Cheat Sheet.
 
-> A set of small, responsive CSS modules that you can use in every web project.
+> A set of small, responsive CSS modules that you can use in every web project. The entire set of modules clocks in at *3.8KB* minified and gzipped.
 
 ## Base
 
